@@ -1,0 +1,111 @@
+ Assembling: D:\masm32\zavd\prog1.asm
+D:\masm32\zavd\prog1.asm(2) : warning A4015: directive ignored with /coff switch
+D:\masm32\zavd\prog1.asm(76) : error A2006: undefined symbol : DGROUP
+D:\masm32\zavd\prog1.asm(80) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(81) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(82) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(85) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(86) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(87) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(88) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(89) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(90) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(91) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(92) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(93) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(94) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(95) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(96) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(97) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(98) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(99) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(100) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(101) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(102) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(105) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(106) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(107) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(108) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(110) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(111) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(112) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(116) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(117) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(118) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(119) : error A2006: undefined symbol : pp
+D:\masm32\zavd\prog1.asm(120) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(121) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(122) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(123) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(124) : error A2006: undefined symbol : pp
+D:\masm32\zavd\prog1.asm(125) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(126) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(127) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(128) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(131) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(133) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(134) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(135) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(136) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(137) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(138) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(140) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(141) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(142) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(144) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(146) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(147) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(148) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(149) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(150) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(151) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(152) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(153) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(154) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(157) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(160) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(161) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(163) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(164) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(165) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(166) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(167) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(168) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(170) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(172) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(173) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(174) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(175) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(176) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(177) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(178) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(181) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(182) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(183) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(185) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(187) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(188) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(190) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(191) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(194) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(197) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(199) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(200) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(202) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(203) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(205) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(206) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(209) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(212) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(214) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(215) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(217) : error A2074: cannot access label through segment registers
+D:\masm32\zavd\prog1.asm(218) : fatal error A1012: error count exceeds 100; stopping assembly
+ Volume in drive D has no label.
+ Volume Serial Number is C0A7-BE60
+
+ Directory of D:\masm32\zavd
+
+28.11.2020  21:43             9ÿ563 prog1.asm
+               1 File(s)          9ÿ563 bytes
+               0 Dir(s)  419ÿ433ÿ209ÿ856 bytes free

@@ -1,0 +1,19 @@
+#Program <Prog>;
+Variable Longint _Art, _Bi, _Cp, _I;
+Start
+_I << 2;
+Output(6 Mul 5);
+While(_I != 5){{
+Output(_I Add 3);
+_I << _I Add 1;
+}
+Output(2 Add 9);
+Input(_Bi);
+_Cp << _Bi Div 2;
+Output(_Cp);
+Output(16 Mod 6;
+Output(1 | 0)
+Output(1 & 0);
+Output(_Bi Sub _I);
+Output(_Bi Mul 3);
+Stop

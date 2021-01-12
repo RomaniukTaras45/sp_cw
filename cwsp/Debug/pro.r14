@@ -1,0 +1,20 @@
+#Program <Prog>;
+Variable Longint _Art, _Bi, _Cp, _I;
+Start
+Output(! 1);
+Output(! 0);
+Output(!3);
+Output(3&4);
+Output(1|0);
+Output(0|0);
+Output(1|1);
+Output(6==3);
+Output(6!=3);
+Output(6!=6);
+Output(6==6);
+Output(1|1);
+Input(_Bi);
+_Art << (!5);
+Output(_Art);
+Output(_Bi);
+Stop
